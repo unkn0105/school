@@ -1,4 +1,4 @@
-#Prime number Algorithm
+# Prime number Algorithm
 ===
 -`노가다.py`
 ```
